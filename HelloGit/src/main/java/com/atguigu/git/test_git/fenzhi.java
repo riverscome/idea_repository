@@ -8,5 +8,6 @@ IntelliJ IDEA - the name of the IDE in which the file will be created. */
 public class fenzhi {
     public static void main(String[] args) {
         System.out.println("创建分支");
+        System.out.println("主要分支");
     }
 }
